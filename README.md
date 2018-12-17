@@ -1,5 +1,5 @@
 # debian-sshpass
-Debian docker image with curl
+Debian docker image with sshpass and ssh commands
 
 # Example
 
